@@ -1,0 +1,24 @@
+name: dmt_a2
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  - pip
+
+  # Core data science
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+
+  # Plotting
+  - matplotlib
+  - seaborn
+
+  # Jupyter / notebooks
+  - jupyterlab
+  - notebook
+  - ipykernel
