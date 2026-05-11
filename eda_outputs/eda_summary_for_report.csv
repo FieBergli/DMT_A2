@@ -1,0 +1,14 @@
+question,answer
+How many rows?,4958347.0
+How many columns?,75.0
+How many unique searches?,199795.0
+How many unique hotels?,129113.0
+Average hotels per search?,24.817172601916965
+Click rate?,4.474858254172207
+Booking rate?,2.7910511305481442
+Percentage searches with click?,100.0
+Percentage searches with booking?,69.26599764758879
+Median price?,122.0
+Mean price?,254.20958985524814
+Median hotel star rating?,3.0
+Median hotel review score?,4.0
