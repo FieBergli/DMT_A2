@@ -1,4 +1,5 @@
 data/*.csv
 data/*.csv
 .DS_Store
-.vscode/
+.vscode/*.parquet
+*.parquet
