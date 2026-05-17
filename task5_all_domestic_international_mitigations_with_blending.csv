@@ -1,0 +1,4 @@
+model,overall_ndcg@5,domestic_ndcg@5,international_ndcg@5,international_minus_domestic_ndcg@5,domestic_booked_recall@5,international_booked_recall@5,international_minus_domestic_recall@5,domestic_top1_hit_rate,international_top1_hit_rate,domestic_mean_booked_rank,international_mean_booked_rank,num_domestic_searches,num_international_searches,num_domestic_booked_searches,num_international_booked_searches
+Original final Task 4 blended LightGBM Ranker,0.408947,0.415919,0.396352,-0.019567,0.634079,0.60661,-0.027468,0.245416,0.233135,6.025298,6.419873,25721,14238,18381,9591
+Full replacement: final blend domestic + international specialist,0.406858,0.415976,0.390387,-0.025589,0.634079,0.59952,-0.034558,0.245471,0.226567,6.026223,6.593786,25721,14238,18381,9591
+Post-processing blend alpha=0.45,0.409031,0.415943,0.396543,-0.0194,0.634079,0.606402,-0.027677,0.245416,0.234282,6.02557,6.42446,25721,14238,18381,9591
